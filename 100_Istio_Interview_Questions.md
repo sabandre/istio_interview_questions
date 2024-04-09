@@ -180,7 +180,7 @@
 
 
 ##
-#### 28. Does iatio have policy enforcement feature?
+#### 28. Does istio have policy enforcement feature?
 
  Answer: yes
 
